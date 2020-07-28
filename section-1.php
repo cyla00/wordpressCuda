@@ -26,6 +26,9 @@
       </div>
     </nav>
     <h1 class="text-white mt-5 titres">Hi there! We are the new kids on the block and we build awesome websites and mobile apps.</h1>
-    <button type="button" class="btn btn-1 mt-5 mb-5">WORK WITH US!</button>
+    <form class="work" action="" method="post">
+      <input class="btn btn-1 mt-5 mb-5" type="submit" name="workbtn" value="WORK WITH US!">
+    </form>
+
   </div>
 </div>
